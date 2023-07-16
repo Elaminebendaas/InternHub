@@ -1,0 +1,9 @@
+.cartestage{
+    display: flex;
+    flex-direction: column;
+    border-radius: 18px;
+    box-shadow: 0 0 1em 0 black;
+    padding: 1em;
+    width: 400px;
+    
+}

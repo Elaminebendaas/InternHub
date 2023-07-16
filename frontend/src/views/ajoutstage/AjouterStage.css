@@ -1,0 +1,21 @@
+.hero{
+    padding: 2em;
+    background: #ffa500;
+    color: white;
+    text-align: left;
+    margin-top: 51px;
+    font-size: 40px;
+}
+.card-ajout > form{
+    width: 300px;
+    border-radius: 20px;    
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 2em;
+    background-color: #e5e7eb;
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.5); 
+}
+.rouge{
+    color: red;
+}

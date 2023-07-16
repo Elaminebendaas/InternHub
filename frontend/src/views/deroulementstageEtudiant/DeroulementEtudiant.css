@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.hero{
+    padding: 2em;
+    background: black;
+    color: white;
+    text-align: left;
+    margin-top: 51px;
+    font-size: 40px;
+}

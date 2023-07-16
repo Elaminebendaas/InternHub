@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4em;
+    margin-bottom: 5em;
+}
+.hero{
+    padding: 2em;
+    background-color: #ffa500;
+    color: white;
+    text-align: left;
+    margin-top: 51px;
+    font-size: 40px;
+}
+.questionsBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.qaBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgba(90, 88, 88, 0.4);
+}

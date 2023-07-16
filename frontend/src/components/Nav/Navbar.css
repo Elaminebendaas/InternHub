@@ -1,0 +1,32 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    background-color: #ffa500;
+    border-bottom: #b2c100 solid 10px;
+}
+.nav-items{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.nav-items > a{
+    padding: 1em;
+    text-decoration: none;
+    color: white;
+    border-radius: 18px;
+    background-color: #1e293b;
+    transition: all 0.2s ease-in-out;
+}
+.nav-items > a:hover{
+    filter: brightness(110%);
+    transform: scale(105%);
+    border-radius: 4px;
+}

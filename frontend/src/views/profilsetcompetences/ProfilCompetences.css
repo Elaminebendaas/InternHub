@@ -1,0 +1,30 @@
+.hero{
+    padding: 2em;
+    background: #ffa500;
+    color: white;
+    text-align: left;
+    margin-top: 51px;
+    font-size: 40px;
+}.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    gap: 40px;
+}
+.container2{
+    width: 1300px;
+    padding: 2em;
+    background-color: #ffd700;
+    border-color: 20px solid #b2c100 ;
+    border-radius: 20px;
+}
+.container2 > p {
+    font-weight: 400;
+}
+
+ul{
+ 
+    text-align: left;
+}
